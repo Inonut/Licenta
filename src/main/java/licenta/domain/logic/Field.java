@@ -8,7 +8,7 @@ public class Field<T> {
 		super();
 		this.field = field;
 		this.isOK = isOK;
-	}
+	} 
 	
 	public Field() {
 		// TODO Auto-generated constructor stub
